@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,7 +34,10 @@
   },
   "name":"PumpkinRun",
   "resources":[
+    {"id":{"name":"obj_pumpkin","path":"objects/obj_pumpkin/obj_pumpkin.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"spr_pumpkin","path":"sprites/spr_pumpkin/spr_pumpkin.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
