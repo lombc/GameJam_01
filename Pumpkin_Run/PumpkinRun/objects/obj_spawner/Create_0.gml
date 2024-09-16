@@ -6,6 +6,6 @@ speedMin = 1.5;
 speedMax = 2.0;
 
 
-spawnTime = 60;
+spawnTime = 100;
 
 alarm[0] = spawnTime;
