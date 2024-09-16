@@ -1,4 +1,4 @@
-// Pumpkin movement
+// obj_pumpkin movement
 var left = keyboard_check(vk_left);
 var right = keyboard_check(vk_right);
 
@@ -11,7 +11,7 @@ if(right == 1)
 	x += 3;
 }
 
-// So Pumpkin does not go off map
+// So obj_pumpkin does not go off map
 if(x > room_width - 60)
 {
 	x -= 3;
