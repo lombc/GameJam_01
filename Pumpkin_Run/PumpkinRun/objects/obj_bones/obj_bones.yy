@@ -2,7 +2,7 @@
   "$GMObject":"",
   "%Name":"obj_bones",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_pumpkin","path":"objects/obj_pumpkin/obj_pumpkin.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_pumpkin","path":"objects/obj_pumpkin/obj_pumpkin.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_bones",
