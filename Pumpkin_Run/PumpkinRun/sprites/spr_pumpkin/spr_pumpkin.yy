@@ -21,6 +21,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"f4601e84-b34c-4525-bbe0-51dcf7843517","blendMode":0,"displayName":"default","isLocked":false,"name":"f4601e84-b34c-4525-bbe0-51dcf7843517","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"5fde377a-0808-4152-8716-5ec271ada4f3","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"5fde377a-0808-4152-8716-5ec271ada4f3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_pumpkin",
   "nineSlice":null,

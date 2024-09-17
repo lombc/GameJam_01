@@ -20,6 +20,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"7e2838dc-c6fd-4da3-9f47-b5470084107d","blendMode":0,"displayName":"default","isLocked":false,"name":"7e2838dc-c6fd-4da3-9f47-b5470084107d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"3ea91ff4-e275-4c88-9b8a-c27624dc87ee","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"3ea91ff4-e275-4c88-9b8a-c27624dc87ee","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_bones",
   "nineSlice":null,

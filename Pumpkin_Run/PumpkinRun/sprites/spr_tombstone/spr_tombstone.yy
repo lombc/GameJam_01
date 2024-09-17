@@ -20,6 +20,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"76b74a93-6bcd-4b3f-9e85-dad15d14d3fd","blendMode":0,"displayName":"default","isLocked":false,"name":"76b74a93-6bcd-4b3f-9e85-dad15d14d3fd","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"f462be74-ad20-4a8b-80da-6674080c8c62","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"f462be74-ad20-4a8b-80da-6674080c8c62","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_tombstone",
   "nineSlice":null,

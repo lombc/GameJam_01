@@ -20,6 +20,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"e25c9366-3305-4d4c-acaa-988f533d25a3","blendMode":0,"displayName":"default","isLocked":false,"name":"e25c9366-3305-4d4c-acaa-988f533d25a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b8c27d5e-ea7c-41d4-a0db-cfeea3df38bd","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"b8c27d5e-ea7c-41d4-a0db-cfeea3df38bd","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_hat",
   "nineSlice":null,
